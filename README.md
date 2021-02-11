@@ -1,5 +1,7 @@
 # vue-medium-todo
 
+[View Demo](http://vue-tasks-app.surge.sh)
+
 ## Project setup
 ```
 npm install
